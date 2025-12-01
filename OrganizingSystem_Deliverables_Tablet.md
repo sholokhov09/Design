@@ -2,8 +2,12 @@
 
 Here's the view-only Figma link to everything: [link](https://www.figma.com/proto/XLE5ERcKZ34M0xsVPxV2Si/Readest_OrganizingSystem_Tablet?node-id=63-628&t=7GiqZcFJPSuQjBfR-1&scaling=scale-down&content-scaling=fixed&page-id=62%3A327&starting-point-node-id=63%3A628)
 
-# Navigating through Library view (List mode)
+# Final Deliverables
 
+<img width="4312" height="1984" alt="Frame 81 (1)" src="https://github.com/user-attachments/assets/44dd7632-4b18-436d-b659-508448feb5ad" />
+
+
+# Archive
 ![ezgif-5d6a71fd53db3b5c](https://github.com/user-attachments/assets/6751ec44-cfbb-4fa9-bb6f-a376eba6b86e)
 
 # Edit Book
